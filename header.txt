@@ -1,2 +1,5 @@
 Some text for header
-anges from <main> - new changes!!!
+anges from <main>
+Changes from <first>
+
+Text from <main>: new changes!!!
